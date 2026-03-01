@@ -1,0 +1,13 @@
+{
+  "name": "shnoo-game",
+  "version": "1.0.0",
+  "description": "لعبة شنو اللي براسي",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
